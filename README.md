@@ -11,6 +11,8 @@
 
 --------------
 
-  
-# Platzi
-En este repositorio vendrán todos los apuntes y avances de los cursos hechos en Platzi...
+<h1>Escuela de Desarrollo Web <img src="httpshttps://static.platzi.com/media/learningpath/golden_badges/4f9f1970-ac2b-4078-909a-8f971c370fde.jpg" width="30px"></h2>
+<h3>Básico</h3>
+
+1. [Curso de Computación Básica](https:// "Curso de Computación Básica")
+2. [Curso de Programación Básica(
